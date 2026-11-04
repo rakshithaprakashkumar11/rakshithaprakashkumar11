@@ -146,19 +146,36 @@ class Rakshitha:
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rakshithaprakashkumar11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithaprakashkumar11&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rakshithaprakashkumar11&show_icons=true&theme=radical&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithaprakashkumar11&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rakshithaprakashkumar11&theme=radical&hide_border=true" alt="GitHub streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=rakshithaprakashkumar11&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshithaprakashkumar11&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rakshithaprakashkumar11&theme=react-dark&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </div>
 
 ---
@@ -166,10 +183,11 @@ class Rakshitha:
 ## 🏅 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakshithaprakashkumar11&theme=radical&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rakshithaprakashkumar11&theme=radical&no-frame=true&row=1&column=7"
+    alt="GitHub Trophies"
+  />
 </div>
-
----
 
 ## 📜 Certifications
 
