@@ -148,13 +148,15 @@ class Rakshitha:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/rakshithaprakashkumar11/rakshithaprakashkumar11/main/github-metrics.svg"
-    alt="GitHub Metrics"
-    width="100%"
-  />
+  <img src="https://img.shields.io/github/followers/rakshithaprakashkumar11?style=for-the-badge&logo=github&color=a855f7&labelColor=181717" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/rakshithaprakashkumar11?style=for-the-badge&logo=github&color=ec4899&labelColor=181717" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-22c55e?style=for-the-badge&logo=github&labelColor=181717" alt="Repos"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img
