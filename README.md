@@ -149,17 +149,21 @@ class Rakshitha:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/rakshithaprakashkumar11?style=for-the-badge&logo=github&color=a855f7&labelColor=181717" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/rakshithaprakashkumar11?style=for-the-badge&logo=github&color=ec4899&labelColor=181717" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-22c55e?style=for-the-badge&logo=github&labelColor=181717" alt="Repos"/>
+  <img src="https://github.com/rakshithaprakashkumar11/rakshithaprakashkumar11/blob/master/github-metrics.svg" alt="GitHub Metrics"/>
 </div>
-
-<br/>
 
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=rakshithaprakashkumar11&theme=radical&hide_border=true"
     alt="GitHub Streak"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/rakshithaprakashkumar11/rakshithaprakashkumar11/output/github-snake-dark.svg"
+    alt="Contribution Snake"
+    width="100%"
   />
 </div>
 
