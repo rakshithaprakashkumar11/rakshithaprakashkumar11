@@ -149,21 +149,17 @@ class Rakshitha:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/rakshithaprakashkumar11/rakshithaprakashkumar11/blob/master/github-metrics.svg" alt="GitHub Metrics"/>
+  <img
+    src="https://raw.githubusercontent.com/rakshithaprakashkumar11/rakshithaprakashkumar11/main/github-metrics.svg"
+    alt="GitHub Metrics"
+    width="100%"
+  />
 </div>
 
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=rakshithaprakashkumar11&theme=radical&hide_border=true"
     alt="GitHub Streak"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/rakshithaprakashkumar11/rakshithaprakashkumar11/output/github-snake-dark.svg"
-    alt="Contribution Snake"
-    width="100%"
   />
 </div>
 
