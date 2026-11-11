@@ -152,12 +152,12 @@ class Rakshitha:
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rakshithaprakashkumar11&show_icons=true&theme=radical&hide_border=true"
+    src="https://YOUR-STATS.vercel.app/api?username=rakshithaprakashkumar11&show_icons=true&theme=radical&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithaprakashkumar11&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    src="https://YOUR-STATS.vercel.app/api/top-langs/?username=rakshithaprakashkumar11&layout=compact&theme=radical&hide_border=true&langs_count=8"
     height="180"
     alt="Top Languages"
   />
@@ -172,7 +172,7 @@ class Rakshitha:
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rakshithaprakashkumar11&theme=react-dark&hide_border=true"
+    src="https://YOUR-GRAPH.vercel.app/graph?username=rakshithaprakashkumar11&theme=react-dark&hide_border=true"
     width="100%"
     alt="Contribution Graph"
   />
@@ -184,7 +184,7 @@ class Rakshitha:
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=rakshithaprakashkumar11&theme=radical&no-frame=true&row=1&column=7"
+    src="https://YOUR-TROPHY.vercel.app/?username=rakshithaprakashkumar11&theme=radical&no-frame=true&row=1&column=7"
     alt="GitHub Trophies"
   />
 </div>
