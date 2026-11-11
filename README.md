@@ -146,22 +146,15 @@ class Rakshitha:
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://YOUR-STATS.vercel.app/api?username=rakshithaprakashkumar11&show_icons=true&theme=radical&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://YOUR-STATS.vercel.app/api/top-langs/?username=rakshithaprakashkumar11&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://img.shields.io/github/followers/rakshithaprakashkumar11?style=for-the-badge&logo=github&color=a855f7&labelColor=181717" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/rakshithaprakashkumar11?style=for-the-badge&logo=github&color=ec4899&labelColor=181717" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-22c55e?style=for-the-badge&logo=github&labelColor=181717" alt="Repos"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img
@@ -170,24 +163,7 @@ class Rakshitha:
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://YOUR-GRAPH.vercel.app/graph?username=rakshithaprakashkumar11&theme=react-dark&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</div>
-
 ---
-
-## 🏅 Trophies
-
-<div align="center">
-  <img
-    src="https://YOUR-TROPHY.vercel.app/?username=rakshithaprakashkumar11&theme=radical&no-frame=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</div>
 
 ## 📜 Certifications
 
